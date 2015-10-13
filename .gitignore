@@ -1,0 +1,9 @@
+*.aux
+*.log
+*.gz
+*.out
+*.bak
+*.bbl
+*.blg
+*.exe
+*.o
