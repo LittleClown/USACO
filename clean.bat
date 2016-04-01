@@ -3,6 +3,7 @@ del /s *.exe
 del /s *.aux
 del /s *.log
 del /s *.gz
+del /s *.in
 del /s *.out
 del /s *.bak
 del /s *.bbl
